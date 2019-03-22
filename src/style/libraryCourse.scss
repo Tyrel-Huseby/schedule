@@ -6,22 +6,20 @@
 
 
 	&__title-check {
-			grid-row: 1/2;
-			display: flex;
+		grid-row: 1/2;
+		display: flex;
 	}
-
-	&__icon {
+	
+	&__arrow {
 		grid-row: 1/2;
 	}
-
+	
 	&__action {
 		grid-row: 1/2;
 	}
-	&__arrow {
-			grid-row: 1/2;
-	}
+	
 	&__description {
-			grid-row: 2/3;
+		grid-row: 2/3;
 	}
 }
   
